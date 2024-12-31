@@ -7,3 +7,7 @@ fastapi
 uvicorn
 groq
 phidata
+sqlalchemy
+pypdf
+pgvector
+psycopg[binary]
